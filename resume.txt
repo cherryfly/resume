@@ -1,0 +1,99 @@
+Rohan Deshpande
+New York City, NY
+rohan.deshpande@gmail.com
+
+SKILLS
+--------------------------------------------------------------------------------
+* Ruby, Ruby on Rails, capistrano, Zeus, git, rpec, Spree, HTML, CSS, SQL, XML
+* Java, Python, Bash, git, subversion, Scala, Lift, resque, redis
+* Mac OSX, Ubuntu, RedHat, Debian, jetty, zsh, vim, bash
+* PostgreSQL, MySQL, MongoDB, jQuery, JavaScript, Eclipse, memcached
+
+EMPLOYMENT HISTORY
+--------------------------------------------------------------------------------
+Gilt Groupe, Inc.                                       
+
+Team Lead, Software Engineering                                09/2009 - 09/2010
+* Constructed end-to-end DropShip warehousing solution. Created document
+  validation workflow and exception handling process to transfer over 3500 orders
+  and generate $200,000 per day using XML (Nokogiri) over HTTPS
+* Implemented inventory receiving tools for physical warehouse to manage sales 
+  of over 10,000 units per day and over 4,000,000 tracked warehouse units.
+* Built Scala-based customer support help site deployed on Jetty using Lift
+  web framework as experiment of new front end platform at Gilt. 
+* Helped construct multi-vendor store "subsite" architecture within Gilt.com 
+* Guide team of 6 software engineers on both customer-facing and internal
+  application development.
+* Host code reviews, retrospectives, daily stand ups to foster knowledge sharing
+* Manage overseas team in Jordan to make bugfixes on internal Ruby on Rails app.
+
+Manager, Quality of Service                                    02/2009 - 09/2009
+* Built QA team - two initial hires and full test plan built within a month. 
+* Set up Continuous Integration suite using CruiseControl and built test 
+  environment utilizing rspec, Shoulda, rcov, and Cucumber
+* Injected QA team into development cycle and release process
+* Rewrote Capistrano deployment scripts and maintained QA environment utilizing 
+  job/task servers, MTAs, Passenger web servers, Solr, and PostgreSQL.
+* Paired with business owners to build full test plans for entire internal Admin
+  application as well as user-facing website
+* Built custom code-review tool into ticket managing software to track all Git
+  commits and track workflow of code review.
+* Built Selenium automated testing suite for use with customer-facing site to
+  aid in performing "sanity" after deploys.
+
+Software Engineer                                              01/2008 - 02/2009
+* Developed customer-facing features such as registration page, Personal Invite 
+  Link feature, Email to Friend feature, and product filtering tools in 
+  Ruby on Rails, using jQuery with AJAX, HTML and CSS.
+* Created acquisition source tracking, member value, and RF analysis tools for
+  use by marketing staff.  
+* Led effort to perform full-scale merge with Japan codebase and create unified
+  process for localization and code merge/deploy process.
+
+FREELANCE ENGINEERING
+--------------------------------------------------------------------------------
+Trendrr
+* Help to develop Java-based realtime and polling analytics platform using
+  Mongo, jetty, and OAuth. Also build out account features on front-end app
+  built in Python with tornado.
+
+Aarting
+* Built entire Ruby on Rails international art exchange website. Complete with
+  fully tiled product layout and checkout process as well as seller administration
+  tools. Built using Rails, PayPal Website Payments Pro, and internationalization
+  tools to support currency and translation.
+
+AnnaBelen
+* Launch entire end-to-end Ruby on Rails eCommerce solution for selling
+  imported costume jewelry using Ruby on Rails, Spree, and PayPal.
+
+CollegeOnly
+* Help construct p2p anonymous chat platform in Redis within Ruby on Rails
+  application.
+
+HowAboutWe
+* Working on core infrastructure to handle location-based services and creating
+scoring algorithms to rank dates and events.
+
+GroupMe
+* Analytics platform to measure group membership, cohort analysis, segmentation
+  and retetion.
+
+ModernTonic
+* Build promotion and contest signup platform for Rails-based media website.
+  Use HAML for templating and integrate with MailChimp for fast marketing.
+
+Obbuna
+* Maintain Ruby on Rails B2B industrial part distributor website. Create custom
+  bulk upload customization tool allowing large-scale updates on inventory.
+
+Gilt
+* Primarily using Splunk to come up with business insight into the uses of the
+  existing administration platform, and to monitor the performance of the 
+  Ruby on Rails administration application.
+
+EDUCATION
+--------------------------------------------------------------------------------
+New York University
+Leonard N. Stern School of Business
+Bachelor of Science: Information Systems, Computer Science       08/2005-12/2008
