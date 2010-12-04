@@ -50,7 +50,7 @@ Software Engineer                                              01/2008 - 02/2009
 * Led effort to perform full-scale merge with Japan codebase and create unified
   process for localization and code merge/deploy process.
 
-FREELANCE ENGINEERING
+CLIENTS
 --------------------------------------------------------------------------------
 Trendrr
 * Help to develop Java-based realtime and polling analytics platform using
