@@ -52,16 +52,21 @@ Software Engineer                                              01/2008 - 02/2009
 
 CLIENTS
 --------------------------------------------------------------------------------
-Trendrr
-* Help to develop Java-based realtime and polling analytics platform using
-  Mongo, jetty, and OAuth. Also build out account features on front-end app
-  built in Python with tornado.
-
-Aarting
+Aarting (in development)
 * Built entire Ruby on Rails international art exchange website. Complete with
   fully tiled product layout and checkout process as well as seller administration
   tools. Built using Rails, PayPal Website Payments Pro, and internationalization
   tools to support currency and translation.
+
+Wantworthy (in development)
+* Luxury-item fashion wish list. Building a bookmarklet-based wishlist application
+  and generic product scraper, as well as full Ruby on Rails product listing and details.
+  Also building custom store-scraper using a catalog of XPaths for product, price, etc.
+
+Trendrr
+* Help to develop Java-based realtime and polling analytics platform using
+  Mongo, jetty, and OAuth. Also build out account features on front-end app
+  built in Python with tornado.
 
 AnnaBelen
 * Launch entire end-to-end Ruby on Rails eCommerce solution for selling
@@ -87,7 +92,7 @@ Obbuna
 * Maintain Ruby on Rails B2B industrial part distributor website. Create custom
   bulk upload customization tool allowing large-scale updates on inventory.
 
-Gilt
+Gilt Groupe
 * Primarily using Splunk to come up with business insight into the uses of the
   existing administration platform, and to monitor the performance of the 
   Ruby on Rails administration application.
