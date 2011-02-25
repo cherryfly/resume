@@ -58,9 +58,9 @@ Aarting (in development)
   tools. Built using Rails, PayPal Website Payments Pro, and internationalization
   tools to support currency and translation.
 
-Wantworthy (in development)
+Wantworthy
 * Luxury-item fashion wish list. Building a bookmarklet-based wishlist application
-  and generic product scraper, as well as full Ruby on Rails product listing and details.
+  and JavaScript product scraper, as well as full Ruby on Rails product listing and details.
   Also building custom store-scraper using a catalog of XPaths for product, price, etc.
 
 Trendrr
