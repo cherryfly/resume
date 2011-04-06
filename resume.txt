@@ -57,7 +57,7 @@ WORK HISTORY
     application. Worked on internal, anonymous messaging platform for inter-
     school communication.
 
-  Gilt Groupe                                                 09/2010 - 11/2010
+  Gilt Groupe - gilt.com                                      09/2010 - 11/2010
   * Primarily using Splunk to come up with business insight into the uses of the
     existing administration platform, and to monitor the performance of the 
     Ruby on Rails administration application.
@@ -66,7 +66,7 @@ WORK HISTORY
   * Maintain Ruby on Rails B2B industrial part distributor website. Create custom
     bulk upload customization tool allowing large-scale updates on inventory.
 
-  ModernTonic                                                 02/2009 - 04/2010
+  ModernTonic - moderntonic.com                               02/2009 - 04/2010
   * Build promotion and contest signup platform for Rails-based media website.
     Use HAML for templating and integrate with MailChimp for email marketing 
     campaigns.
