@@ -13,6 +13,13 @@ WORK HISTORY
 --------------------------------------------------------------------------------
 = Freelance Software Developer                                 09/2010 - current
 
+  Fashism - fashism.com                                        04/2011 - 04/2011
+  * Server rearchitecture include HAProxy load balancer and nginx/Passenger 
+    web servers. Helped CTO to craft new deployment scripts to handle SSH
+    gateway to private VLAN, as well as implementing Munin and Nagios to monitor
+    new servers. Audit of most visited pages on site and analysis of weak
+    points in the application logic that would hinder abilities to scale.
+
   Tred (in development)                                        03/2011 - current
   * Online car customization tool built in Ruby on Rails to allow for users to
     retrieve a quote from a manufacturer and provide reviews on a per-option
