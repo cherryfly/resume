@@ -4,7 +4,7 @@ rohan.deshpande@gmail.com
 
 SKILLS
 --------------------------------------------------------------------------------
-* Ruby, Ruby on Rails, Agile, TDD/BDD, Spree, HTML, CSS, SQL, XML
+* Ruby, Ruby on Rails, Sinatra, Agile, TDD/BDD, Spree, HTML, CSS, SQL, XML
 * Java, Python, Bash, git, subversion, Scala, Lift, Redis, Node.js
 * Mac OSX, Ubuntu, RedHat, Debian, vim, bash, capistrano
 * PostgreSQL, MySQL, MongoDB, jQuery, JavaScript, Eclipse, memcached
@@ -13,6 +13,12 @@ WORK HISTORY
 --------------------------------------------------------------------------------
 = Freelance Software Developer                                 09/2010 - current
 
+  Hatch'd (in development)                                     02/2011 - current
+  * Building idea exchange platform to aggregate user ideas for a specific
+    business or institution. Includes gaming platform to obtain both points,
+    badges, and other incentives for various activities. Primarily built with 
+    Ruby on Rails, Sphinx, and Paypal.
+
   Fashism - fashism.com                                        04/2011 - 04/2011
   * Server rearchitecture include HAProxy load balancer and nginx/Passenger 
     web servers. Helped CTO to craft new deployment scripts to handle SSH
@@ -20,17 +26,11 @@ WORK HISTORY
     new servers. Audit of most visited pages on site and analysis of weak
     points in the application logic that would hinder abilities to scale.
 
-  Tred (in development)                                        03/2011 - current
+  Tred                                                         03/2011 - 08/2011
   * Online car customization tool built in Ruby on Rails to allow for users to
     retrieve a quote from a manufacturer and provide reviews on a per-option
     basis per car. Requires heavy integration with Chrome SOAP API for car
     data and images.
-
-  Hatch'd (in development)                                     2/2011 - current
-  * Building idea exchange platform to aggregate user ideas for a specific
-    business or institution. Includes gaming platform to obtain both points,
-    badges, and other incentives for various activities. Primarily built with 
-    Ruby on Rails, Sphinx, and Paypal.
 
   Wantworthy - wantworthy.com                                 12/2010 - current
   * Luxury-item fashion wish list. Building a bookmarklet-based wishlist 
@@ -78,6 +78,21 @@ WORK HISTORY
     Use HAML for templating and integrate with MailChimp for email marketing 
     campaigns.
 
+= MeLLmo, Inc.
+
+Senior Software Developer                                         05/2011 - current
+* Rebuilt ecommerce platform for SaaS offering with full integration into existing
+  licensing system. Integration with the FastSpring SaaSy payment processing system
+  allowing B2B purchasing of volume licenses.
+* Revamped deployment of existing Sinatra Ruby web applications to use embedded
+  Tomcat container using the trinidad gem.
+* Built entire back-office administration tool to manage SaaS offering by internal
+  staff, with ability to manage users accounts, organizations, and license management.
+* Built license management tools for enterprise customers to generate, download, and
+  store license keys for deployed server solution.
+* Created automated asset management tool to host shared images/CSS/JavaScripts
+  using Amazon S3. Automatic synchronization upon each commit, and built-in
+  versioning system so that all assets on the web can be modified with confidence.
 
 = Gilt Groupe, Inc.                                       
 
