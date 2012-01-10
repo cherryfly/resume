@@ -11,13 +11,25 @@ SKILLS
 
 WORK HISTORY
 --------------------------------------------------------------------------------
-= Freelance Software Developer                                 09/2010 - current
+= Independent Software Consultant                              09/2010 - current
 
   Hatch'd (in development)                                     02/2011 - current
   * Building idea exchange platform to aggregate user ideas for a specific
     business or institution. Includes gaming platform to obtain both points,
     badges, and other incentives for various activities. Primarily built with 
     Ruby on Rails, Sphinx, and Paypal.
+
+  Methodologie (in development)                                12/2011 - current
+  * Advisor to technology operations to build next generation project management
+    tool specifically catered to startups. Providing code review services and
+    guidance to junior developers, and establishing a cadence and development
+    process for the internal team.
+
+  Bib and Tuck (in development)                                05/2011 - current
+  * Online fashion secondary marketplace to sell high-end luxury items. Allows
+    owners of designer apparel and accessories to sell on an online virtual
+    marketplace using an internal currency. Built using Ruby on Rails, PayPal, 
+    and Endicia for shipping integration.
 
   Fashism - fashism.com                                        04/2011 - 04/2011
   * Server rearchitecture include HAProxy load balancer and nginx/Passenger 
@@ -80,7 +92,7 @@ WORK HISTORY
 
 = MeLLmo, Inc.
 
-Senior Software Developer                                         05/2011 - current
+Senior Software Developer                                     05/2011 - 01/2012
 * Rebuilt ecommerce platform for SaaS offering with full integration into existing
   licensing system. Integration with the FastSpring SaaSy payment processing system
   allowing B2B purchasing of volume licenses.
