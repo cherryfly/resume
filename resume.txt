@@ -2,6 +2,9 @@ Rohan Deshpande
 San Diego, CA
 rohan.deshpande@gmail.com
 
+Software developer with experience building modern web applications both
+as an individual contributor as well as a team lead / manager.
+
 SKILLS
 --------------------------------------------------------------------------------
 * Ruby, Ruby on Rails, Sinatra, Agile, TDD/BDD, Spree, HTML, CSS, SQL, XML
@@ -14,17 +17,21 @@ WORK HISTORY
 --------------------------------------------------------------------------------
 = Independent Software Consultant                              09/2010 - current
 
-  Hatch'd - hatchd.it                                          02/2011 - current
-  * Building idea exchange platform to aggregate user ideas for a specific
-    business or institution. Includes gaming platform to obtain both points,
-    badges, and other incentives for various activities. Primarily built with 
-    Ruby on Rails, Sphinx, and Paypal using jQuery Masonry on the frontend.
+  Careerosity (in development)                                 08/2012 - current
+  * Advisory/Team Lead position - provide architectural oversight to team
+  in building career transition social network. Users can seek advice on 
+  making transitions between industries or roles.  Primarily built with 
+  Ruby on Rails.
 
-  Methodologie (in development)                                12/2011 - current
-  * Advisor to technology operations to build next generation project management
-    tool specifically catered to startups. Providing code review services and
-    guidance to junior developers, and establishing a cadence and development
-    process for the internal team.
+  Stealth E-Commerce Platform                                  05-2012 - current
+  * Custom design-your-own jewelry e-commerce and consultation platform.
+  Developing back-office tools and workflow as well as customer e-commerce
+  experience. Ruby on Rails using MySQL, ElasticSearch, and SideKiq.
+
+  Zeit9 (in development)                                       05/2012 - current
+  * Advisory/Team Lead position - provide architectural oversight to team
+  in building men's fasion site focused on assembling clothing and outfits.
+  Primarily built with Ruby on Rails.
 
   Fashism - fashism.com                                        04/2011 - 04/2011
   * Server rearchitecture include HAProxy load balancer and nginx/Passenger 
@@ -32,6 +39,18 @@ WORK HISTORY
     gateway to private VLAN, as well as implementing Munin and Nagios to monitor
     new servers. Audit of most visited pages on site and analysis of weak
     points in the application logic that would hinder abilities to scale.
+
+  Hatch'd - hatchd.it                                          02/2011 - current
+  * Building idea exchange platform to aggregate user ideas for a specific
+    business or institution. Includes gaming platform to obtain both points,
+    badges, and other incentives for various activities. Primarily built with 
+    Ruby on Rails, Sphinx, and Paypal using jQuery Masonry on the frontend.
+
+  Methodologie (in development)                                12/2011 - 03/2012
+  * Advisor to technology operations to build next generation project management
+    tool specifically catered to startups. Providing code review services and
+    guidance to junior developers, and establishing a cadence and development
+    process for the internal team.
 
   Tred                                                         03/2011 - 08/2011
   * Online car customization tool built in Ruby on Rails to allow for users to
@@ -51,34 +70,34 @@ WORK HISTORY
     administration tools. Built using Rails, PayPal Website Payments Pro, and 
     internationalization tools to support currency and translation.
 
-  AnnaBelen - annabelen.com                                   04/2010 - 11/2010
-  * Launch entire end-to-end Ruby on Rails eCommerce solution for selling
-    imported costume jewelry using Ruby on Rails, Spree, and integration
-    with Authorize.NET for payment processing.
+  GroupMe - groupme.com                                       10/2010 - 02/2011
+  * Built chat presence webserver in Node.js/Redis handling over 20,000 requests 
+    per second. Also worked on analytics platform to measure group membership, 
+    cohort analysis, segmentation and retetion.
 
   Trendrr - trendrr.com                                       07/2010 - 10/2010
   * Help to develop Java-based realtime and polling analytics platform using
     Mongo, jetty, and OAuth. Also build out account features on front-end app
     built in Python with tornado.
 
-  GroupMe - groupme.com                                       10/2010 - 02/2011
-  * Built chat presence webserver in Node.js/Redis handling over 20,000 requests 
-    per second. Also worked on analytics platform to measure group membership, 
-    cohort analysis, segmentation and retetion.
+  AnnaBelen - annabelen.com                                   04/2010 - 11/2010
+  * Launch entire end-to-end Ruby on Rails eCommerce solution for selling
+    imported costume jewelry using Ruby on Rails, Spree, and integration
+    with Authorize.NET for payment processing.
 
   CollegeOnly                                                 08/2010 - 12/2010
   * Help construct p2p anonymous chat platform in Redis within Ruby on Rails
     application. Worked on internal, anonymous messaging platform for inter-
     school communication.
 
+  Obbuna                                                      10/2009 - 02/2010
+  * Maintain Ruby on Rails B2B industrial part distributor website. Create custom
+    bulk upload customization tool allowing large-scale updates on inventory.
+
   Gilt Groupe - gilt.com                                      09/2010 - 11/2010
   * Primarily using Splunk to come up with business insight into the uses of the
     existing administration platform, and to monitor the performance of the 
     Ruby on Rails administration application.
-
-  Obbuna                                                      10/2009 - 02/2010
-  * Maintain Ruby on Rails B2B industrial part distributor website. Create custom
-    bulk upload customization tool allowing large-scale updates on inventory.
 
   ModernTonic - moderntonic.com                               02/2009 - 04/2010
   * Build promotion and contest signup platform for Rails-based media website.
