@@ -1,11 +1,11 @@
 Rohan Deshpande
-San Diego, CA
+San Francisco
 rohan.deshpande@gmail.com
 
 Software developer with experience building modern web applications both
 as an individual contributor as well as a team lead / manager.
 
-SKILLS
+SOFTWARE
 --------------------------------------------------------------------------------
 * Ruby, Ruby on Rails, Sinatra, Agile, TDD/BDD, Spree, HTML, CSS, SQL, XML
 * Java, Python, Bash, git, Redis, Node.js, Backbone
@@ -17,16 +17,17 @@ WORK HISTORY
 --------------------------------------------------------------------------------
 = Independent Software Consultant                              09/2010 - current
 
+  Ritani - ritani.com                                          05/2012 - 11/2012
+  * Custom design-your-own jewelry e-commerce and consultation platform.
+  Developing back-office tools and workflow as well as customer e-commerce
+  experience. Specific projects include Virtual Gemologist and White Glove 
+  service. Ruby on Rails using MySQL, ElasticSearch, and SideKiq.
+
   Careerosity (in development)                                 08/2012 - current
   * Advisory/Team Lead position - provide architectural oversight to team
   in building career transition social network. Users can seek advice on 
   making transitions between industries or roles.  Primarily built with 
   Ruby on Rails.
-
-  Stealth E-Commerce Platform                                  05-2012 - current
-  * Custom design-your-own jewelry e-commerce and consultation platform.
-  Developing back-office tools and workflow as well as customer e-commerce
-  experience. Ruby on Rails using MySQL, ElasticSearch, and SideKiq.
 
   Zeit9 (in development)                                       05/2012 - current
   * Advisory/Team Lead position - provide architectural oversight to team
@@ -46,7 +47,7 @@ WORK HISTORY
     badges, and other incentives for various activities. Primarily built with 
     Ruby on Rails, Sphinx, and Paypal using jQuery Masonry on the frontend.
 
-  Methodologie (in development)                                12/2011 - 03/2012
+  Methodologie                                                 12/2011 - 03/2012
   * Advisor to technology operations to build next generation project management
     tool specifically catered to startups. Providing code review services and
     guidance to junior developers, and establishing a cadence and development
