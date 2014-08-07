@@ -1,7 +1,6 @@
-
 Rohan Deshpande
 ========
-SF / NYC | [rohan.deshpande@gmail.com](mailto:rohan.deshpande_at_gmail.com)
+NYC | [rohan.deshpande@gmail.com](mailto:rohan.deshpande_at_gmail.com)
 
 _Software developer with experience building modern web applications an
 individual contributor as well as a team lead / manager._
@@ -10,8 +9,86 @@ Skills: Ruby, Ruby on Rails, Agile, TDD/BDD, HTML, CSS, SQL, JavaScript
 
 Work History
 ---
-### Independent Software Consultant                              
-### 10/2010 - current
+### Fundera, Inc.
+#### Co-Founder and CTO - (09/2014 - current)
+* Built end-to-end marketplace for small business lending. Implemented customized
+  rule system for matching prospective small businesses to loan products
+* Managing a team of 3 engineers and 1 product designer
+* Fulfilled loan volume of $2mm since February launch date
+* Implemented new iteration of Fundera.com including support to upload documents
+  and submit a full-fledged loan application to 30+ lender partners
+
+### MeLLmo, Inc.
+#### Senior Software Developer - (05/2011 - 01/2012)
+* Rebuilt ecommerce platform for SaaS offering with full integration into existing
+  licensing system. Integration with the FastSpring SaaSy payment processing system
+  allowing B2B purchasing of volume licenses.
+* Revamped deployment of existing Sinatra Ruby web applications to use embedded
+  Tomcat container using the trinidad gem.
+* Built entire back-office administration tool to manage SaaS offering by internal
+  staff, with ability to manage users accounts, organizations, and license management.
+* Built license management tools for enterprise customers to generate, download, and
+  store license keys for deployed server solution.
+* Created automated asset management tool to host shared images/CSS/JavaScripts
+  using Amazon S3. Automatic synchronization upon each commit, and built-in
+  versioning system so that all assets on the web can be modified with confidence.
+
+### Gilt Groupe, Inc.                                       
+#### Team Lead, Software Engineering - (09/2009 - 09/2010)
+* Constructed end-to-end DropShip warehousing solution. Created document
+  validation workflow and exception handling process to transfer over 3500 orders
+  and generate $200,000 per day using XML (Nokogiri) over HTTPS
+* Implemented inventory receiving tools for physical warehouse to manage sales 
+  of over 10,000 units per day and over 4,000,000 tracked warehouse units.
+* Built Scala-based customer support help site deployed on Jetty using Lift
+  web framework as experiment of new front end platform at Gilt. 
+* Helped construct multi-vendor store "subsite" architecture within Gilt.com 
+* Guide team of 6 software engineers on both customer-facing and internal
+  application development, serving over 4500 requests per second using internal
+  Java-based web framework built for personalization.
+* Host code reviews, retrospectives, daily stand ups to foster knowledge sharing
+* Manage overseas team in Jordan to make bugfixes on internal Ruby on Rails app.
+
+#### Manager, Quality of Service - (02/2009 - 09/2009)
+* Built QA team - two initial hires and full test plan built within a month. 
+* Set up Continuous Integration suite using CruiseControl and built test 
+  environment utilizing rspec, Shoulda, rcov, and Cucumber
+* Injected QA team into development cycle and release process
+* Rewrote Capistrano deployment scripts and maintained QA environment utilizing 
+  job/task servers, MTAs, Passenger web servers, Solr, and PostgreSQL.
+* Paired with business owners to build full test plans for entire internal Admin
+  application as well as user-facing website
+* Built custom code-review tool into ticket managing software to track all Git
+  commits and track workflow of code review.
+* Built Selenium automated testing suite for use with customer-facing site to
+  aid in performing "sanity" after deploys.
+
+#### Software Engineer (01/2008 - 02/2009)
+* Developed customer-facing features such as registration page, Personal Invite 
+  Link feature, Email to Friend feature, and product filtering tools in 
+  Ruby on Rails, using jQuery with AJAX, HTML and CSS.
+* Created acquisition source tracking, member value, and RF analysis tools for
+  use by marketing staff.  
+* Led effort to perform full-scale merge with Japan codebase and create unified
+  process for localization and code merge/deploy process.
+
+### Software Consulting
+
+#### [WeatherFrom] (http://weatherfrom.com) - (06/2014)
+
+Implemented key scalability improvements over a week span to
+a high-traffic video delivery website. Built architecture to
+withstand large traffic spikes while website was being covered
+heavily in the press and tweeted by users with very large followers
+(Seth Rogan, James Franco).
+
+#### [Paddle8](http://paddle8.com) - (03/2013)
+
+Advisory service to produce plan for scalability for Ruby on Rails
+application. Current architecture was hitting performance and scale 
+issues with a growing user base.  Analyzed existing structure, software, 
+and hardware, using NewRelic to create conclusions about pain points in 
+their implementation. 
 
 #### [YouAreTV](http://youaretv.com) - (03/2013)
 
@@ -125,59 +202,6 @@ Build promotion and contest signup platform for Rails-based media website.
 Use HAML for templating and integrate with MailChimp for email marketing 
 campaigns.
 
-### MeLLmo, Inc.
-#### Senior Software Developer - (05/2011 - 01/2012)
-* Rebuilt ecommerce platform for SaaS offering with full integration into existing
-  licensing system. Integration with the FastSpring SaaSy payment processing system
-  allowing B2B purchasing of volume licenses.
-* Revamped deployment of existing Sinatra Ruby web applications to use embedded
-  Tomcat container using the trinidad gem.
-* Built entire back-office administration tool to manage SaaS offering by internal
-  staff, with ability to manage users accounts, organizations, and license management.
-* Built license management tools for enterprise customers to generate, download, and
-  store license keys for deployed server solution.
-* Created automated asset management tool to host shared images/CSS/JavaScripts
-  using Amazon S3. Automatic synchronization upon each commit, and built-in
-  versioning system so that all assets on the web can be modified with confidence.
-
-### Gilt Groupe, Inc.                                       
-#### Team Lead, Software Engineering - (09/2009 - 09/2010)
-* Constructed end-to-end DropShip warehousing solution. Created document
-  validation workflow and exception handling process to transfer over 3500 orders
-  and generate $200,000 per day using XML (Nokogiri) over HTTPS
-* Implemented inventory receiving tools for physical warehouse to manage sales 
-  of over 10,000 units per day and over 4,000,000 tracked warehouse units.
-* Built Scala-based customer support help site deployed on Jetty using Lift
-  web framework as experiment of new front end platform at Gilt. 
-* Helped construct multi-vendor store "subsite" architecture within Gilt.com 
-* Guide team of 6 software engineers on both customer-facing and internal
-  application development, serving over 4500 requests per second using internal
-  Java-based web framework built for personalization.
-* Host code reviews, retrospectives, daily stand ups to foster knowledge sharing
-* Manage overseas team in Jordan to make bugfixes on internal Ruby on Rails app.
-
-#### Manager, Quality of Service - (02/2009 - 09/2009)
-* Built QA team - two initial hires and full test plan built within a month. 
-* Set up Continuous Integration suite using CruiseControl and built test 
-  environment utilizing rspec, Shoulda, rcov, and Cucumber
-* Injected QA team into development cycle and release process
-* Rewrote Capistrano deployment scripts and maintained QA environment utilizing 
-  job/task servers, MTAs, Passenger web servers, Solr, and PostgreSQL.
-* Paired with business owners to build full test plans for entire internal Admin
-  application as well as user-facing website
-* Built custom code-review tool into ticket managing software to track all Git
-  commits and track workflow of code review.
-* Built Selenium automated testing suite for use with customer-facing site to
-  aid in performing "sanity" after deploys.
-
-#### Software Engineer (01/2008 - 02/2009)
-* Developed customer-facing features such as registration page, Personal Invite 
-  Link feature, Email to Friend feature, and product filtering tools in 
-  Ruby on Rails, using jQuery with AJAX, HTML and CSS.
-* Created acquisition source tracking, member value, and RF analysis tools for
-  use by marketing staff.  
-* Led effort to perform full-scale merge with Japan codebase and create unified
-  process for localization and code merge/deploy process.
 
 Education
 --------------------------------------------------------------------------------
